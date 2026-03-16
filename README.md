@@ -1,5 +1,9 @@
 # Hi, I'm Sonal Shelke 👋
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sonal+Shelke;Aspiring+Data+Analyst;Excel+%7C+SQL+%7C+Power+BI;Learning+Python+for+Data+Analytics">
+</p>
+
 🎓 Electronics & Telecommunication Engineering Student  
 📊 Aspiring Data Analyst  
 📍 India  
