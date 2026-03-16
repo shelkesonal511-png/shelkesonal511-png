@@ -17,20 +17,17 @@
 
 ## 🛠 Skills
 
-### Data Analysis
-Excel | SQL | Statistics
+<p align="left">
 
-### Data Visualization
-Power BI | Tableau
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-### Programming
-Python
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
-### Tools
-Jupyter Notebook | Git | GitHub | VS Code
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
 
-### AI Tools
-ChatGPT | Gemini | Blackbox | Cursor
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
+</p>
 
 ---
 
