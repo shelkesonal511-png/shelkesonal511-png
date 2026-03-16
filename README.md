@@ -1,5 +1,3 @@
-![Banner](github-header-banner.png)
-
 # Hi, I'm Sonal Shelke 👋
 
 <p align="center">
