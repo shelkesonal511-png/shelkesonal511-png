@@ -1,5 +1,63 @@
-## Hi there 👋
+# Hi, I'm Sonal Shelke 👋
 
+🎓 Electronics & Telecommunication Engineering Student  
+📊 Aspiring Data Analyst  
+📍 India  
+
+---
+
+## 🚀 About Me
+
+- Passionate about Data Analytics and Data Visualization
+- Skilled in Excel, SQL, Power BI
+- Learning Python for Data Analysis
+- Interested in AI tools and prompt engineering
+
+---
+
+## 🛠 Skills
+
+### Data Analysis
+Excel | SQL | Statistics
+
+### Data Visualization
+Power BI | Tableau
+
+### Programming
+Python
+
+### Tools
+Jupyter Notebook | Git | GitHub | VS Code
+
+### AI Tools
+ChatGPT | Gemini | Blackbox | Cursor
+
+---
+
+## 📂 Data Analyst Projects
+
+- Pizza Sales Analysis (SQL + Power BI)
+- Sales Dashboard (Power BI)
+- Excel Data Cleaning Project
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shelkesonal511-png)
+
+---
+
+## 🔥 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelkesonal511-png)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+Email
 <!--
 **shelkesonal511-png/shelkesonal511-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
