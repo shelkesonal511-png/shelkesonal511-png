@@ -56,7 +56,8 @@
 LinkedIn  
 Email
 
-![snake gif](https://github.com/shelkesonal511-png/shelkesonal511-png/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/shelkesonal511-png/shelkesonal511-png/blob/output/github-contribution-grid-snake.svg?raw=true)
 <!--
 **shelkesonal511-png/shelkesonal511-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
