@@ -38,7 +38,6 @@
 ## 📂 Data Analyst Projects
 
 - Pizza Sales Analysis (SQL)
-- Sales Dashboard (Power BI)
 - Hospital Emergency Room Dashboard (Excel)
 - Travel and Tourism Management System (SQL)
 - Customer Behavior Analysis (SQL + Python + Excel + Power BI)
