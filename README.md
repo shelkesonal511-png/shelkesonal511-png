@@ -41,7 +41,7 @@
 - Sales Dashboard (Power BI)
 - Excel Data Cleaning Project
 - Travel and Tourism Management System (SQL)
-- 
+- Customer Behavior Analysis (SQL + Python + Excel + Power BI)
 
 
 ---
