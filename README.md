@@ -37,9 +37,12 @@
 
 ## 📂 Data Analyst Projects
 
-- Pizza Sales Analysis (SQL + Power BI)
+- Pizza Sales Analysis (SQL)
 - Sales Dashboard (Power BI)
 - Excel Data Cleaning Project
+- Travel and Tourism Management System (SQL)
+- 
+
 
 ---
 
