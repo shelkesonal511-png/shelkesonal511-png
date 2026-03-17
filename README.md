@@ -39,7 +39,7 @@
 
 - Pizza Sales Analysis (SQL)
 - Sales Dashboard (Power BI)
-- Excel Data Cleaning Project
+- Hospital Emergency Room Dashboard (Excel)
 - Travel and Tourism Management System (SQL)
 - Customer Behavior Analysis (SQL + Python + Excel + Power BI)
 
