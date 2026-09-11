@@ -53,8 +53,7 @@
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shelkesonal511-png)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelkesonal511-png&layout=compact&hide_border=true&langs_count=8" height="180"/> </p>
 ---
 
 ## 📫 Connect With Me
