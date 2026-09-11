@@ -5,7 +5,7 @@
 </p>
 
 🎓 Electronics & Telecommunication Engineering Student  
-📊 Aspiring Data Analyst  
+📊 Data Analyst  
 📍 India  
 
 ---
