@@ -12,10 +12,14 @@
 
 ## 🚀 About Me
 
-- Passionate about Data Analytics and Data Visualization
-- Skilled in Excel, SQL, Power BI
-- Learning Python for Data Analysis
-- Interested in AI tools and prompt engineering
+**Data Analyst** with hands-on experience in **SQL, Python, Excel, and Power BI**. I enjoy turning raw data into actionable insights through data cleaning, analysis, visualization, and dashboard development.
+
+- 📊 Data Analysis | SQL | Python | Excel | Power BI
+- 🧹 Data Cleaning | Validation | Transformation | EDA
+- 📈 KPI Reporting | Dashboard Development | Business Insights
+- 🐍 Python & Pandas for data analysis and automation
+- 💡 Interested in Data Analytics, Business Intelligence & AI tools
+- 🎯 Open to **Entry-Level Data Analyst opportunities**
 
 ---
 
