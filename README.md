@@ -47,13 +47,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shelkesonal511-png&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="180"/> </p>
+<p align="center">
+  <img src="./profile/stats.svg" height="180"/>
+</p>
 
 ---
 
 ## 🔥 Most Used Languages
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelkesonal511-png&layout=compact&hide_border=true&langs_count=8" height="180"/> </p>
+<p align="center">
+  <img src="./profile/top-langs.svg" height="180"/>
+</p>
 ---
 
 ## 📫 Connect With Me
